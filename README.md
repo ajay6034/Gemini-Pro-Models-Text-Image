@@ -1,6 +1,6 @@
 ## Multiple Tasks like Q&A, Summerization, Text-Image Using Gemini Models
 
-Here's a breakdown of the tasks performed in each file:
+
 
 ### `app.py`
 This file sets up a Streamlit web application that interacts with the **Gemini Pro model** to generate responses based on text input.
